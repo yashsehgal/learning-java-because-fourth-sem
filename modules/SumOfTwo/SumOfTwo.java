@@ -1,3 +1,5 @@
+package modules.SumOfTwo;
+
 import java.util.*;
 
 public class SumOfTwo {
